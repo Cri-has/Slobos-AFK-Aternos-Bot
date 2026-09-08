@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "angelowow.aternos.me",
-    "port": :55581,
+    "port": 55581,
     "version": "",
     "try-creative": false
   },
